@@ -1,0 +1,9 @@
+# Local/editor state
+.obsidian/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary artifacts
+*.tmp
